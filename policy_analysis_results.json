@@ -1,0 +1,184 @@
+{
+  "fecha_analisis": "2026-01-14T13:06:15.100108+00:00",
+  "documento_estrategico": "Estrategias de Innovación Soberana: IA, Salud Pública y Sostenibilidad en América del Norte (2025-2030)",
+  "marco_legal": "T-MEC / USMCA",
+  "total_areas_politicas": 6,
+  "total_formatos_auditoria": 52,
+  "areas_politicas": {
+    "marco_normativo_ia": {
+      "titulo": "Marco Normativo y Armonización del T-MEC en la Era de la IA",
+      "instrumentos_legales": [
+        "Reforma Arts. 3º y 73 Constitucionales",
+        "Ley General de IA (Propuesta 2024)",
+        "Armonización de 17 Leyes Sectoriales"
+      ],
+      "formatos_relevantes": [
+        "formato-1-informe-de-analisis-de-riesgo.docx",
+        "formato-2-plan-de-auditoria.docx",
+        "formato-5-modelo-de-informe-de-auditoria-independiente.docx"
+      ],
+      "nivel_cumplimiento": "ALTO",
+      "observaciones": "Los formatos de auditoría permiten evaluar el cumplimiento de normativas de IA en instituciones públicas"
+    },
+    "gestion_laboral_ia": {
+      "titulo": "IA como Herramienta Técnica Humana en la Gestión Laboral",
+      "sistemas": [
+        "SIDIL (Sistema de Inteligencia de Datos para la Inspección Laboral)",
+        "SIAPI (Sistema Informático de Apoyo al Proceso de Inspección)",
+        "VELAVO (Programa de Verificación Laboral Voluntaria)"
+      ],
+      "formatos_relevantes": [
+        "formato-7-concentrado-general-contratos-adquisiciones.xlsx",
+        "formato-8-resumen-presupuestal-de-adquisiciones.xlsx",
+        "formato-9-integracion-de-la-muestra-adquisiciones.xlsx"
+      ],
+      "nivel_cumplimiento": "MEDIO-ALTO",
+      "observaciones": "Los formatos de adquisiciones pueden adaptarse para auditar contratos laborales y cumplimiento de derechos"
+    },
+    "salud_publica_fentanilo": {
+      "titulo": "Integración del Fentanilo como Desafío de Salud Pública No Punitiva",
+      "tecnologias": [
+        "WODDAS (Wearable Overdose Detection and Alert System)",
+        "Auto-inyector Subcutáneo con IA",
+        "Sensores de Baño Pasivos",
+        "Dashboard de Aguas Residuales"
+      ],
+      "formatos_relevantes": [
+        "formato-21-reporte-de-hallazgos.xlsx",
+        "formato-22-modelo-de-informe-disif.docx",
+        "formato-23-propuestas-de-mejora.docx"
+      ],
+      "nivel_cumplimiento": "MEDIO",
+      "observaciones": "Los formatos de hallazgos y propuestas de mejora son aplicables a programas de salud pública"
+    },
+    "ia_verde_sostenibilidad": {
+      "titulo": "Estrategias de 'IA Verde' y Sostenibilidad Industrial",
+      "iniciativas": [
+        "Economía Circular",
+        "Programa Frontera 2025",
+        "Gestión de Residuos con IA",
+        "PROMARNAT 2025-2030"
+      ],
+      "formatos_relevantes": [
+        "formato-14-concentrado-general-de-contratos-de-obras-publicas.xlsx",
+        "formato-15-resumen-presupuestal-de-obras-publicas.xlsx",
+        "formato-17-cedula-de-resultados-de-obras-publicas.xlsx"
+      ],
+      "nivel_cumplimiento": "ALTO",
+      "observaciones": "Los formatos de obras públicas son ideales para auditar proyectos de infraestructura sostenible"
+    },
+    "logistica_aduanas_inteligentes": {
+      "titulo": "Logística Estratégica y Aduanas Inteligentes bajo el T-MEC",
+      "tecnologias": [
+        "Blockchain para Trazabilidad",
+        "C-TPAT (Customs-Trade Partnership Against Terrorism)",
+        "eTIR y e-AWB (Digitalización de Transporte)"
+      ],
+      "formatos_relevantes": [
+        "formato-10-cedula-de-resultados-de-adquisiciones.xlsx",
+        "formato-11-cedula-de-incumplimientos-de-adquisiciones.xlsx",
+        "formato-12-otros-aspectos-normativos-de-adquisiciones.xlsx"
+      ],
+      "nivel_cumplimiento": "ALTO",
+      "observaciones": "Los formatos de adquisiciones pueden auditar contratos de logística y cumplimiento aduanero"
+    },
+    "etica_derechos_humanos": {
+      "titulo": "Ética, Derechos Humanos y Soberanía Tecnológica",
+      "principios": [
+        "Dignidad Humana",
+        "Libertad de Expresión",
+        "No Discriminación",
+        "Participación Ciudadana",
+        "Supervisión Democrática"
+      ],
+      "formatos_relevantes": [
+        "formato-24-cedula-comparativa-de-normas-contables.xlsx",
+        "formato-25-carta-de-conclusion-de-la-auditoria.docx"
+      ],
+      "nivel_cumplimiento": "ALTO",
+      "observaciones": "Los formatos de conclusión permiten evaluar el cumplimiento ético de las políticas públicas"
+    }
+  },
+  "integracion_estrategica": {
+    "objetivo": "Utilizar los 52 formatos oficiales de auditoría para evaluar el cumplimiento de las políticas estratégicas de América del Norte",
+    "metodologia": "Mapeo de formatos de auditoría a áreas de política pública, análisis de cumplimiento con IA, y generación de reportes automatizados",
+    "beneficios": [
+      "Auditoría automatizada de políticas públicas con validez legal",
+      "Trazabilidad completa mediante blockchain",
+      "Cumplimiento verificable del T-MEC",
+      "Análisis comparativo entre México, EE.UU. y Canadá",
+      "Identificación de mejores prácticas regionales"
+    ]
+  },
+  "recomendaciones_implementacion": {
+    "corto_plazo": [
+      "Adaptar los formatos de auditoría para incluir indicadores específicos de IA, salud pública y sostenibilidad",
+      "Crear dashboards de cumplimiento en tiempo real con los datos de los formatos",
+      "Implementar análisis con Gemini API para extracción automática de indicadores de cumplimiento"
+    ],
+    "mediano_plazo": [
+      "Desarrollar módulos de auditoría específicos para cada área de política pública",
+      "Integrar con sistemas de información gubernamentales (SIDIL, SIAPI, PROMARNAT)",
+      "Crear red de intercambio de datos con EE.UU. y Canadá bajo el marco del T-MEC"
+    ],
+    "largo_plazo": [
+      "Auditoría completamente automatizada de todas las políticas públicas de América del Norte",
+      "Sistema de alertas tempranas para incumplimientos",
+      "Armonización total de estándares de auditoría entre los tres países"
+    ]
+  },
+  "casos_uso_estrategicos": {
+    "auditoria_ia_laboral": {
+      "descripcion": "Auditar el uso de IA en inspecciones laborales (SIDIL) para garantizar que no haya sesgos algorítmicos",
+      "formatos": [
+        "formato-7",
+        "formato-8",
+        "formato-9"
+      ],
+      "indicadores": [
+        "Tasa de eficacia",
+        "Sectores prioritarios",
+        "Cumplimiento de derechos laborales"
+      ]
+    },
+    "evaluacion_programas_salud": {
+      "descripcion": "Evaluar la efectividad de programas de reducción de daños por fentanilo",
+      "formatos": [
+        "formato-21",
+        "formato-22",
+        "formato-23"
+      ],
+      "indicadores": [
+        "Reducción de sobredosis",
+        "Acceso a naloxona",
+        "Cobertura de tratamiento"
+      ]
+    },
+    "certificacion_proyectos_verdes": {
+      "descripcion": "Certificar que proyectos de infraestructura cumplen con estándares de IA Verde",
+      "formatos": [
+        "formato-14",
+        "formato-15",
+        "formato-17"
+      ],
+      "indicadores": [
+        "Reducción de emisiones",
+        "Economía circular",
+        "Uso de energías renovables"
+      ]
+    },
+    "transparencia_aduanera": {
+      "descripcion": "Auditar la implementación de blockchain en aduanas para garantizar trazabilidad",
+      "formatos": [
+        "formato-10",
+        "formato-11",
+        "formato-12"
+      ],
+      "indicadores": [
+        "Tiempo de despacho",
+        "Reducción de fraude",
+        "Cumplimiento C-TPAT"
+      ]
+    }
+  }
+}
