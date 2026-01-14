@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-01-14T09:44:45.559977",
+  "document_sample": "\n    PROYECTO DE CONSTRUCCIÓN DE PLANTA INDUSTRIAL\n    \n    El presente proyecto contempla la construcción de una planta de tratamiento\n    de residuos industriales en el municipio de ejemplo. Se han identificado\n    los siguientes aspectos:\n    \n    - Superficie total: 5 hectáreas\n    - Inversión: $50 millones MXN\n    - Generación de empleos: 150 directos\n    - Tratamiento de residuos: 100 toneladas/día\n    \n    Se cuenta con:\n    - Estudio de factibilidad técnica\n    - Análisis de mercado\n    ",
+  "extraction": {
+    "obligaciones": [
+      "Presentar Manifestación de Impacto Ambiental (MIA)",
+      "Obtener autorización de SEMARNAT",
+      "Cumplir con NOM-001-SEMARNAT sobre descargas de aguas"
+    ],
+    "articulos_citados": [
+      "Art. 35 LGEEPA",
+      "Art. 28 LGEEPA",
+      "NOM-001-SEMARNAT-2021"
+    ],
+    "fechas_limite": [
+      "30 días antes del inicio de obras",
+      "Renovación anual de licencia"
+    ],
+    "responsables": [
+      "Titular del proyecto",
+      "Representante legal"
+    ],
+    "cumplimientos": [
+      "Documentación básica presentada"
+    ],
+    "incumplimientos": [
+      "Falta MIA completa",
+      "No se identificó autorización ambiental vigente"
+    ],
+    "riesgos": [
+      "Suspensión de obras por falta de MIA",
+      "Multas de PROFEPA",
+      "Responsabilidad penal ambiental"
+    ],
+    "recomendaciones": [
+      "Elaborar y presentar MIA ante SEMARNAT urgentemente",
+      "Solicitar autorización ambiental",
+      "Contratar consultor ambiental certificado"
+    ]
+  },
+  "compliance": {
+    "findings": [
+      {
+        "rule_id": "LGEEPA-Art35",
+        "status": "No Cumple",
+        "confidence": 85,
+        "evidence": "Análisis simulado del documento para LGEEPA-Art35",
+        "explanation": "El documento no cumple con Manifestación de Impacto Ambiental (MIA)",
+        "recommendation": "Revisar y completar requisitos de LGEEPA-Art35"
+      },
+      {
+        "rule_id": "LGEEPA-Art28",
+        "status": "No Cumple",
+        "confidence": 85,
+        "evidence": "Análisis simulado del documento para LGEEPA-Art28",
+        "explanation": "El documento cumple con Autorización de impacto ambiental",
+        "recommendation": "Mantener cumplimiento"
+      },
+      {
+        "rule_id": "NOM-001-SEMARNAT",
+        "status": "Cumple",
+        "confidence": 85,
+        "evidence": "Análisis simulado del documento para NOM-001-SEMARNAT",
+        "explanation": "El documento cumple con Límites de contaminantes en aguas",
+        "recommendation": "Mantener cumplimiento"
+      }
+    ],
+    "summary": "Análisis simulado de 3 reglas. Se detectaron incumplimientos críticos."
+  },
+  "summary": "\n**Resumen Ejecutivo de Auditoría Ambiental LGEEPA**\n\nEl análisis realizado sobre los documentos presentados revela hallazgos críticos que requieren atención inmediata. Se identificó la ausencia de la Manifestación de Impacto Ambiental (MIA), documento obligatorio según el Artículo 35 de la LGEEPA para proyectos con impacto ambiental significativo. Esta omisión representa un riesgo legal considerable, incluyendo la posible suspensión de obras y sanciones por parte de PROFEPA.\n\nAdicionalmente, no se localizó evidencia de autorización ambiental vigente por parte de SEMARNAT, lo que constituye un incumplimiento del Artículo 28 de la LGEEPA. Se recomienda iniciar de inmediato el proceso de elaboración y presentación de la MIA, así como la solicitud formal de autorización ambiental. La contratación de un consultor ambiental certificado facilitará el cumplimiento normativo.\n\nEs imperativo actuar con urgencia para regularizar la situación legal del proyecto y evitar consecuencias más severas. El plazo recomendado para iniciar acciones correctivas es de 30 días.\n\n**Llamado a la Acción**: Contactar a SEMARNAT para iniciar trámite de MIA y autorización ambiental dentro de los próximos 7 días hábiles.\n"
+}
