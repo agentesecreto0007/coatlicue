@@ -1,0 +1,32 @@
+{
+  "regulation_name": "LGEEPA (Ley General del Equilibrio Ecológico y la Protección al Ambiente)",
+  "jurisdiction": "México",
+  "summary": "Se encontraron 1 hallazgo(s) CRÍTICO(S) de incumplimiento LGEEPA/NOMs",
+  "findings": [
+    {
+      "rule_id": "LGEEPA-Art35",
+      "description": "No se encontró Manifestación de Impacto Ambiental (MIA)",
+      "status": "No Cumple",
+      "severity": "Critico",
+      "context": "Requisito obligatorio para proyectos con impacto ambiental significativo",
+      "recommendation": "Elaborar y presentar MIA ante SEMARNAT según Art. 35 LGEEPA"
+    },
+    {
+      "rule_id": "LGEEPA-Art28",
+      "description": "No se encontró licencia o autorización ambiental",
+      "status": "Advertencia",
+      "severity": "Alto",
+      "context": null,
+      "recommendation": "Verificar si el proyecto requiere autorización ambiental de SEMARNAT"
+    },
+    {
+      "rule_id": "NOMs-SEMARNAT",
+      "description": "No se identificaron referencias a NOMs ambientales específicas",
+      "status": "Advertencia",
+      "severity": "Medio",
+      "context": null,
+      "recommendation": "Verificar cumplimiento de NOMs aplicables según el tipo de proyecto"
+    }
+  ],
+  "timestamp": "2026-01-14T09:37:50.030197"
+}
