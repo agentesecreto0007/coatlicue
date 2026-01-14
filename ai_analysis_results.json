@@ -1,0 +1,126 @@
+{
+  "fecha_analisis": "2026-01-14T12:51:29.044610+00:00",
+  "total_formatos": 52,
+  "categorias": {
+    "auditoria_general": {
+      "total": 23,
+      "formatos": [
+        "formato-1-informe-de-analisis-de-riesgo.docx",
+        "formato-2-plan-de-auditoria.docx",
+        "formato-3-determinacion-de-la-materialidad-o-importancia-relativa.xlsx",
+        "formato-4-ajustes-de-auditoria.xlsx",
+        "formato-5-modelo-de-informe-de-auditoria-independiente.docx",
+        "formato-6-modelo-de-dictamen-presupuestario.doc",
+        "formato-10-cedula-de-resultados-de-adquisiciones.xlsx",
+        "formato-11-cedula-de-incumplimientos-de-adquisiciones.xlsx",
+        "formato-12-otros-aspectos-normativos-de-adquisiciones.xlsx",
+        "formato-13-modelo-de-informe-de-adqusiciones.docx",
+        "formato-14-concentrado-general-de-contratos-de-obras-publicas.xlsx",
+        "formato-15-resumen-presupuestal-de-obras-publicas.xlsx",
+        "formato-16-integracion-de-la-muestra-de-obras-publicas.xlsx",
+        "formato-17-cedula-de-resultados-de-obras-publicas.xlsx",
+        "formato-18-cedula-de-incumplimientos-obras-publicas.xlsx",
+        "formato-19-otros-aspectos-normativos-de-obras-publicas.xlsx",
+        "formato-20-modelo-de-informe-de-obra-publica.docx",
+        "formato-21-reporte-de-hallazgos-bis.xlsx",
+        "formato-21-reporte-de-hallazgos.xlsx",
+        "formato-22-modelo-de-informe-disif.docx",
+        "formato-23-propuestas-de-mejora.docx",
+        "formato-24-cedula-comparativa-de-normas-contables.xlsx",
+        "formato-25-carta-de-conclusion-de-la-auditoria.docx"
+      ],
+      "descripcion": "Formatos de auditoría general (1-6)"
+    },
+    "adquisiciones": {
+      "total": 3,
+      "formatos": [
+        "formato-7-concentrado-general-contratos-adquisiciones.xlsx",
+        "formato-8-resumen-presupuestal-de-adquisiciones.xlsx",
+        "formato-9-integracion-de-la-muestra-adquisiciones.xlsx"
+      ],
+      "descripcion": "Formatos de adquisiciones (7-13)"
+    },
+    "obras_publicas": {
+      "total": 0,
+      "formatos": [],
+      "descripcion": "Formatos de obras públicas (14-20)"
+    },
+    "hallazgos": {
+      "total": 0,
+      "formatos": [],
+      "descripcion": "Formatos de hallazgos y reportes (21-25)"
+    },
+    "guias": {
+      "total": 26,
+      "formatos": [
+        "Informe-de-analisis-de-riesgo-e-instructivo.pdf",
+        "Instructivo_Formato_1.pdf",
+        "Instructivo_Formato_3.pdf",
+        "Instructivo_Formato_4.pdf",
+        "Modelo-de-informe-de-auditoria-independiente.pdf",
+        "Modelo-de-dictamen-presupuestario.pdf",
+        "Instructivo_Formato_7.pdf",
+        "Instructivo_Formato_8.pdf",
+        "Instructivo_Formato_9.pdf",
+        "Instructivo_Formato_10.pdf",
+        "Instructivo_Formato_11.pdf",
+        "Instructivo_Formato_12.pdf",
+        "Modelo-de-informe-de-adqusiciones.pdf",
+        "Instructivo_Formato_14.pdf",
+        "Instructivo_Formato_15.pdf",
+        "Instructivo_Formato_16.pdf",
+        "Instructivo_Formato_17.pdf",
+        "Instructivo_Formato_18.pdf",
+        "Instructivo_Formato_19.pdf",
+        "Modelo-de-informe-de-obra-publica.pdf",
+        "Instructivo_Formato_21_bis.pdf",
+        "Instructivo_Formato_21.pdf",
+        "Modelo-de-informe-disif.pdf",
+        "Propuestas-de-mejora-e-instructivo.pdf",
+        "Instructivo_Formato_23.pdf",
+        "Instructivo_Formato_24.pdf"
+      ],
+      "descripcion": "Guías e instructivos complementarios"
+    }
+  },
+  "recomendaciones_ia": {
+    "uso_estrategico": [
+      "Utilizar los formatos de auditoría general (1-6) como base para todas las auditorías",
+      "Aplicar los formatos de adquisiciones (7-13) para auditar procesos de compra",
+      "Usar los formatos de obras públicas (14-20) para auditar infraestructura",
+      "Documentar hallazgos con los formatos 21-25",
+      "Consultar las guías e instructivos antes de aplicar cada formato"
+    ],
+    "automatizacion": [
+      "Extraer campos clave de los formatos Word/Excel con procesamiento de lenguaje natural",
+      "Validar completitud de información requerida en cada formato",
+      "Detectar inconsistencias entre formatos relacionados",
+      "Generar reportes consolidados automáticamente",
+      "Comparar con formatos equivalentes de otros países (EE.UU., Canadá)"
+    ],
+    "expansion_internacional": [
+      "Descargar formatos equivalentes de los 50 estados de EE.UU.",
+      "Descargar formatos equivalentes de las 13 provincias de Canadá",
+      "Realizar análisis comparativo de requisitos entre jurisdicciones",
+      "Identificar mejores prácticas internacionales",
+      "Proponer armonización de estándares para América del Norte"
+    ]
+  },
+  "proximos_pasos_ia": {
+    "corto_plazo": [
+      "Implementar extracción automática de campos con Gemini API",
+      "Crear validadores de cumplimiento para cada formato",
+      "Generar reportes de auditoría automatizados"
+    ],
+    "mediano_plazo": [
+      "Entrenar modelo especializado en auditoría gubernamental",
+      "Implementar detección de anomalías con machine learning",
+      "Crear sistema de recomendaciones basado en IA"
+    ],
+    "largo_plazo": [
+      "Auditoría completamente automatizada con IA",
+      "Predicción de riesgos de corrupción",
+      "Sistema de alertas tempranas para irregularidades"
+    ]
+  }
+}
